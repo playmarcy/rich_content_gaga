@@ -1,5 +1,27 @@
 import json
 
+another_games = '''{
+      "widgetName": "raTextBlock",
+      "title": {
+        "content": [
+          "Другие игры серии"
+        ],
+        "size": "size5",
+        "color": "color2",
+        "align": "center"
+      },
+      "theme": "default",
+      "padding": "type1",
+      "gapSize": "s",
+      "text": {
+        "size": "size1",
+        "align": "left",
+        "color": "color1",
+        "content": [
+          ""
+        ]
+      }
+    },'''
 
 content3 = '''{
       "widgetName": "raShowcase",
