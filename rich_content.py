@@ -6,3 +6,4 @@ count_blocks = int(input('Из скольки блоков будет состо
 another_games_examples = json.dumps(create_widget(count_blocks), ensure_ascii=False, indent=4)
 print(another_games)
 print(another_games_examples, ',', sep='')
+input("Нажми Enter, чтобы выйти")

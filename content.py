@@ -6,7 +6,7 @@ another_games = '''{
         "content": [
           "Другие игры серии"
         ],
-        "size": "size5",
+        "size": "size6",
         "color": "color2",
         "align": "center"
       },
