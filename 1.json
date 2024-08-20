@@ -1,0 +1,372 @@
+{
+    "content": [
+        {
+            "widgetName": "raTextBlock",
+            "title": {
+                "content": [
+                    "Замок Монстров"
+                ],
+                "size": "size6",
+                "color": "color1",
+                "align": "center"
+            },
+            "theme": "default",
+            "padding": "type1",
+            "gapSize": "s",
+            "text": {
+                "size": "size3",
+                "align": "left",
+                "color": "color1",
+                "content": [
+                    "Замок Монстров – это ужасно очаровательная и кошмарно конфликтная настольная игра в жанре flip-and-write (\"переверни и запиши\"), которая порадует игроков своими яркими хэллоуинскими иллюстрациями и быстрыми, но мозголомными партиями. Вам предстоит устроить жуткую вечеринку и попытаться разместить всех гостей, которые желают её посетить – а таких немало! Каждый ход вы будете переворачивать карточку с определённой фигурой, согласно которой вам нужно будет разместить всевозможных ведьм, скелетов, вампиров, единорогов и прочих гостей, зарисовывая их на своем планшете. Но гости капризны и хотят размещаться максимально удобно, так что вам предстоит хорошенько поразмышлять над тем, как наиболее эффективно их расположить и получить максимум победных очков. Ну а какая вечеринка без фейерверков, тостов за короля Тыкву, вращающегося танцпола, зажигательной ламбады и иных развлечений, который принесут вам дополнительные очки? Но будьте аккуратны, ведь если вы не сможете разместить гостей, то придётся оставить их на мосту в замок или даже безжалостно скинуть в ров вокруг замка – а они, уж поверьте, этому будут совершенно не рады! Сумеете ли вы раскрыть свой талант организатора вечеринок и устроить самый запоминающийся приём? :)",
+                    ""
+                ]
+            }
+        },
+        {
+            "widgetName": "raShowcase",
+            "type": "billboard",
+            "blocks": [
+                {
+                    "imgLink": "",
+                    "img": {
+                        "src": "https://cdn1.ozone.ru/s3/multimedia-6/6678320910.jpg",
+                        "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-0/6678320904.jpg",
+                        "alt": "",
+                        "width": 1416,
+                        "height": 300,
+                        "widthMobile": 750,
+                        "heightMobile": 272
+                    },
+                    "title": {
+                        "content": [
+                            ""
+                        ],
+                        "size": "size1",
+                        "align": "center",
+                        "color": "color2"
+                    },
+                    "text": {
+                        "size": "size1",
+                        "align": "center",
+                        "color": "color2",
+                        "content": [
+                            ""
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "widgetName": "raShowcase",
+            "type": "tileL",
+            "blocks": [
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723022486/db2e95d2/39385465.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723022486/db2e95d2/39385465.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/155197066/",
+                    "title": {
+                        "content": [
+                            "Большая Бродилка"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Та самая ходилка из детства в стране, где все хотят всё!"
+                        ]
+                    }
+                },
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723123106/7db8339d/39389292.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723123106/7db8339d/39389292.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/219232766/",
+                    "title": {
+                        "content": [
+                            "Драфтозавры"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Яркая, захватывающая и очаровательная стратегия о динозаврах и динопарках!"
+                        ]
+                    }
+                },
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723123103/9d8f2e1a/39389291.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723123103/9d8f2e1a/39389291.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/148541921/",
+                    "title": {
+                        "content": [
+                            "Гоббит"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Дикая гонка на внимательность и молниеносную реакцию прямо в джунглях!"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "widgetName": "raShowcase",
+            "type": "tileL",
+            "blocks": [
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723202942/fba457d1/39389955.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723202942/fba457d1/39389955.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/879391441/",
+                    "title": {
+                        "content": [
+                            "Гигамон"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Развивай память вместе с очаровательными элемонами и дружелюбными гигамонами!"
+                        ]
+                    }
+                },
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723123119/6ea8729d/39389297.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723123119/6ea8729d/39389297.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/171503932/",
+                    "title": {
+                        "content": [
+                            "Спасите Дино"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Кооперативная игра о спасении обаятельных динозавриков, работе в команде и умении договариваться!"
+                        ]
+                    }
+                },
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723123111/21237e15/39389294.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723123111/21237e15/39389294.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/148541974/",
+                    "title": {
+                        "content": [
+                            "Кошачья Лапка"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Соревнование в скорости, реакции и пространственном мышлении в компании милых котиков!"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "widgetName": "raShowcase",
+            "type": "tileL",
+            "blocks": [
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723123109/284f560f/39389293.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723123109/284f560f/39389293.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/148541802/",
+                    "title": {
+                        "content": [
+                            "Королевский Замок"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Простая настольная игра, тренирующая память, в маленькой коробочке!"
+                        ]
+                    }
+                },
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723449099/8cf4ab58/39393481.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723449099/8cf4ab58/39393481.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/271866713/",
+                    "title": {
+                        "content": [
+                            "Атака Кракена"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Кооперативная игра об азартном противостоянии храбрых пиратов и вредного кракена Тунтуна!"
+                        ]
+                    }
+                },
+                {
+                    "img": {
+                        "src": "https://images.vfl.ru/ii/1723449102/6305fca2/39393482.png",
+                        "srcMobile": "https://images.vfl.ru/ii/1723449102/6305fca2/39393482.png",
+                        "alt": "",
+                        "width": 900,
+                        "height": 900,
+                        "heightMobile": 900,
+                        "widthMobile": 900,
+                        "isParandja": false,
+                        "isParandjaMobile": false
+                    },
+                    "imgLink": "https://www.ozon.ru/product/864847659/",
+                    "title": {
+                        "content": [
+                            "Жми на Газ!"
+                        ],
+                        "size": "size4",
+                        "align": "center",
+                        "color": "color1"
+                    },
+                    "text": {
+                        "size": "size2",
+                        "align": "center",
+                        "color": "color3",
+                        "content": [
+                            "Динамичная и захватывающая гонка почти без правил для детей и взрослых!"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "widgetName": "raTextBlock",
+            "title": {
+                "content": [
+                    "Идеи подарков с GaGa Games — это просто! :)"
+                ],
+                "size": "size4",
+                "color": "color1",
+                "align": "center"
+            },
+            "theme": "default",
+            "padding": "type1",
+            "gapSize": "s",
+            "text": {
+                "size": "size1",
+                "align": "left",
+                "color": "color1",
+                "content": [
+                    "Семейные игры — это целая философия дружной и счастливой жизни! Играть в них необязательно в кругу семьи — они отлично заходят и на сугубо взрослых посиделках. Ведь настольные игры — это не только лото, монополия, шахматы, мафия, уно или морской бой, это ещё и настолки с глубоким сюжетом и хитросплетением интересных механик, которые заставят вас пошевелить мозгами и поднимут ваше настроение, а также будут оригинальным и прикольным подарком. Также они окажутся хороши для развлечения или подарков мальчикам и девочкам от 8 лет в школу, корпоративных и личных презентов детям, подросткам, друзьям, коллегам, мужчинам, девушкам, любимым, парам, отлично покажут себя во время поездок на дачу, отдых и в отпуск, в качестве развивающей игры, игры для компании или даже детских развивашек. Отличительная особенность семейных настолок — простая механика, увлекательный сюжет, разнообразие игровых ситуаций, вызывающее всеобщее оживление. Это замечательный способ весело провести свободное время с теми, кто тебе дорог. Поделитесь такой возможностью с теми, кому будете делать подарки на день рождения, 14 февраля, 8 марта, 23 февраля, новый год, 1 сентября или любой другой праздник, а может и без повода."
+                ]
+            }
+        }
+    ],
+    "version": 0.3
+}

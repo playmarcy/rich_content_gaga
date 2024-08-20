@@ -1,0 +1,88 @@
+{
+    "widgetName": "raTextBlock",
+    "title": {
+        "content": [
+            "Защити свою игру"
+        ],
+        "size": "size5",
+        "color": "color1",
+        "align": "center"
+    },
+    "theme": "default",
+    "padding": "type1",
+    "gapSize": "m",
+    "text": {
+        "size": "size3",
+        "align": "center",
+        "color": "color1",
+        "content": [
+            "В игре Чужая Планета 107 карт, подойдут протекторы размера 63.5 х 88 мм премиум или стандарт."
+        ]
+    }
+},
+{
+    "widgetName": "raShowcase",
+    "type": "tileXL",
+    "blocks": [
+        {
+            "img": {
+                "src": "https://cdn1.ozone.ru/s3/multimedia-1-w/7095064784.jpg",
+                "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-1-w/7095064784.jpg",
+                "alt": "",
+                "position": "to_the_edge",
+                "positionMobile": "to_the_edge",
+                "widthMobile": 1000,
+                "heightMobile": 1000,
+                "isParandja": false,
+                "isParandjaMobile": false
+            },
+            "imgLink": "https://www.ozon.ru/product/1273484709/",
+            "title": {
+                "content": [
+                    "Комплект протекторов GaGa 63,5х88 мм Премиум, 2 упаковки по 55 шт."
+                ],
+                "size": "size5",
+                "align": "center",
+                "color": "color1"
+            },
+            "text": {
+                "size": "size2",
+                "align": "left",
+                "color": "color1",
+                "content": [
+                    ""
+                ]
+            }
+        },
+        {
+            "img": {
+                "src": "https://cdn1.ozone.ru/s3/multimedia-1-5/7095064757.jpg",
+                "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-1-5/7095064757.jpg",
+                "alt": "",
+                "position": "to_the_edge",
+                "positionMobile": "to_the_edge",
+                "widthMobile": 1000,
+                "heightMobile": 1000,
+                "isParandja": false,
+                "isParandjaMobile": false
+            },
+            "imgLink": "https://www.ozon.ru/product/1273490787",
+            "title": {
+                "content": [
+                    "Комплект протекторов GaGa 63,5х88 мм Стандарт, 2 упаковки по 110 шт."
+                ],
+                "size": "size5",
+                "align": "center",
+                "color": "color1"
+            },
+            "text": {
+                "size": "size2",
+                "align": "left",
+                "color": "color1",
+                "content": [
+                    ""
+                ]
+            }
+        }
+    ]
+},

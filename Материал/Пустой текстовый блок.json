@@ -1,0 +1,22 @@
+{
+    "widgetName": "raTextBlock",
+    "title": {
+        "content": [
+            ""
+        ],
+        "size": "size6",
+        "color": "color1",
+        "align": "center"
+    },
+    "theme": "default",
+    "padding": "type1",
+    "gapSize": "s",
+    "text": {
+        "size": "size3",
+        "align": "left",
+        "color": "color1",
+        "content": [
+            ""
+        ]
+    }
+},

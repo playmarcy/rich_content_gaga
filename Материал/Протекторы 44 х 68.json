@@ -1,0 +1,88 @@
+{
+    "widgetName": "raTextBlock",
+    "title": {
+        "content": [
+            "Защити свою игру"
+        ],
+        "size": "size5",
+        "color": "color1",
+        "align": "center"
+    },
+    "theme": "default",
+    "padding": "type1",
+    "gapSize": "m",
+    "text": {
+        "size": "size3",
+        "align": "center",
+        "color": "color1",
+        "content": [
+            "В игре {Игра} {количество} карт, подойдут протекторы размера 44 х 68 мм премиум или стандарт."
+        ]
+    }
+},
+{
+    "widgetName": "raShowcase",
+    "type": "tileXL",
+    "blocks": [
+        {
+            "img": {
+                "src": "https://images.vfl.ru/ii/1723723206/a39b01ab/39396458.png",
+                "srcMobile": "https://images.vfl.ru/ii/1723723206/a39b01ab/39396458.png",
+                "alt": "",
+                "position": "to_the_edge",
+                "positionMobile": "to_the_edge",
+                "widthMobile": 1000,
+                "heightMobile": 1000,
+                "isParandja": false,
+                "isParandjaMobile": false
+            },
+            "imgLink": "https://www.ozon.ru/product/1273402169/",
+            "title": {
+                "content": [
+                    "Комплект протекторов GaGa 44х68 мм Премиум, 2 упаковки по 55 шт."
+                ],
+                "size": "size5",
+                "align": "center",
+                "color": "color1"
+            },
+            "text": {
+                "size": "size2",
+                "align": "left",
+                "color": "color1",
+                "content": [
+                    ""
+                ]
+            }
+        },
+        {
+            "img": {
+                "src": "https://images.vfl.ru/ii/1723723210/b5afa7db/39396459.png",
+                "srcMobile": "https://images.vfl.ru/ii/1723723210/b5afa7db/39396459.png",
+                "alt": "",
+                "position": "to_the_edge",
+                "positionMobile": "to_the_edge",
+                "widthMobile": 1000,
+                "heightMobile": 1000,
+                "isParandja": false,
+                "isParandjaMobile": false
+            },
+            "imgLink": "https://www.ozon.ru/product/1273427213/",
+            "title": {
+                "content": [
+                    "Комплект протекторов GaGa 44х68 мм Стандарт, 2 упаковки по 110 шт."
+                ],
+                "size": "size5",
+                "align": "center",
+                "color": "color1"
+            },
+            "text": {
+                "size": "size2",
+                "align": "left",
+                "color": "color1",
+                "content": [
+                    ""
+                ]
+            }
+        }
+    ]
+},

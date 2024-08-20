@@ -1,0 +1,393 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-q/6691154894.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-r/6691154895.jpg",
+            "alt": "",
+            "position": "width_full",
+            "positionMobile": "width_full"
+          },
+          "title": {
+            "content": [
+              "Длина Волны"
+            ],
+            "size": "size6",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size3",
+            "align": "left",
+            "color": "color1",
+            "content": [
+              "Командная игра, в которой вам предстоит стать телепатом!",
+              "",
+              "Длина волны — это умопомрачительная игра для большой и веселой компании, в которой две команды соревнуются в тонком искусстве чтении мыслей. Вам предстоит давать меткие ассоциации, пытаясь заставить вашу команду угадать определенное место на специальном экране, выделенное цветным сектором, расположение которого знаете только вы, и направить туда красную стрелку. Но вот незадача — сколько людей, столько и мнений! Где же на шкале от отрицательного до положительного персонажа находится профессор Снейп? Сандалии с носками — это больше безвкусица или же небольшой перекос в \"модное\"? А представляете, сколько шуму наделает ассоциация для карточки \"хороший / плохой фильм\"? И вот, когда совместным мозговым штурмом красная стрелка была расположена на ширме с ответом, наступает самый волнительный момент — раскрытие ширмы! Торжествующие крики, разочарованные вздохи, смех — целая буря эмоций за одним столом. И в этом — вся Длина Волны: до невозможности простая игра, наполненная жаркими спорами, бурными обсуждениями и настоящей магией слов и ассоциаций."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "roll",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-3/6691154907.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-n/6691154891.jpg",
+            "alt": "",
+            "position": "width_full",
+            "positionMobile": "width_full"
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-0/6678436572.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-q/6675918146.jpg",
+            "alt": "",
+            "width": 1416,
+            "height": 300,
+            "widthMobile": 750,
+            "heightMobile": 272
+          },
+          "title": {
+            "content": [
+              "Наши хиты"
+            ],
+            "size": "size6",
+            "align": "center",
+            "color": "color2"
+          },
+          "text": {
+            "size": "size1",
+            "align": "center",
+            "color": "color2",
+            "content": [
+              ""
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tileL",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-r/6678436563.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-r/6678436563.jpg",
+            "alt": "",
+            "width": 900,
+            "height": 900,
+            "heightMobile": 900,
+            "widthMobile": 900,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/j4A0djn",
+          "title": {
+            "content": [
+              "Кодовые Имена"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Настольная классика для шумной вечеринки, дружеских посиделок и семейных вечеров!"
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-k/6678222068.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-k/6678222068.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/M0elwMy",
+          "title": {
+            "content": [
+              "Мафия: Город Засыпает"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Легендарный психологический настольный триллер! "
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-z/6678436571.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-z/6678436571.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/b4k72an",
+          "title": {
+            "content": [
+              "Муза"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Вдохновляющий способ выстроить взаимопонимание и развить фантазию!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "tileL",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-p/6678436525.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-p/6678436525.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/dwW8X4J",
+          "title": {
+            "content": [
+              "Коннект"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Абсолютно новый уровень поиска ассоциаций!"
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-s/6679550764.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-s/6679550764.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/41XN9eo",
+          "title": {
+            "content": [
+              "Мастер Слов"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Кооперативный мозговой штурм по угадыванию слов!"
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-u/6678436494.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-u/6678436494.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/41K0n6A",
+          "title": {
+            "content": [
+              "Ночь Ниндзя"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Динамичное противостояние со скрытыми ролями между двумя кланами ниндзя!"
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-g/6678222064.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-g/6678222064.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/8rRBjMG",
+          "title": {
+            "content": [
+              "Нуар"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Целых 6 детективных игр в одной компактной коробочке!"
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-r/6678436491.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-r/6678436491.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/ylRnVWj",
+          "title": {
+            "content": [
+              "Хит!"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Невероятно азартная игра на удачу, жадность и просчёт!"
+            ]
+          }
+        },
+        {
+          "img": {
+            "src": "https://cdn1.ozone.ru/s3/multimedia-s/6678436492.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/multimedia-s/6678436492.jpg",
+            "alt": "",
+            "width": 440,
+            "height": 440,
+            "heightMobile": 640,
+            "widthMobile": 640,
+            "isParandja": false,
+            "isParandjaMobile": false
+          },
+          "imgLink": "https://ozon.ru/t/JzlQBNn",
+          "title": {
+            "content": [
+              "Это Фейк!"
+            ],
+            "size": "size3",
+            "align": "center",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "center",
+            "color": "color3",
+            "content": [
+              "Оригинальный способ узнать интересные и невероятные факты, а ещё проверить способность к импровизации!"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "title": {
+        "content": [
+          "Идеи для подарков с GaGa Games — это просто! :)"
+        ],
+        "size": "size4",
+        "color": "color1",
+        "align": "center"
+      },
+      "theme": "default",
+      "padding": "type1",
+      "gapSize": "s",
+      "text": {
+        "size": "size1",
+        "align": "left",
+        "color": "color1",
+        "content": [
+          "Играть в игры для больших компаний на вечеринках и корпоративах давно стало трендом. Теперь многие знают, что настолки – это игры для всей семьи, развлечение для посиделок с коллегами и просто смешные и оригинальные подарки на любые случаи жизни. Так почему бы вам не купить такие настолки в качестве корпоративных подарков коллегам, мужчинам, девушкам, любимым, подросткам на праздник, день рождения, новый год, 14 февраля, 23 февраля, 8 марта, 1 сентября, новоселье, на любой праздник и без повода? Ассоциативная или разговорная игра однозначно украшает вечеринку: никому не скучно, люди ближе знакомятся друг с другом, накапливают общие воспоминания и приколы. Самое то, чтобы сплотить коллектив или дружеский круг во время игр дома, на даче, в отпуске, на отдыхе, в баре, на вечеринке или в любом подходящем месте! Дарите настолки друг другу! Это замечательный и прикольный подарок девушке, парню, мальчику, девочке, мужчине, женщине, коллегам и приятелям. Идеи для подарков с GaGa Games – это просто :)"
+        ]
+      }
+    }
+  ],
+  "version": 0.3
+}
